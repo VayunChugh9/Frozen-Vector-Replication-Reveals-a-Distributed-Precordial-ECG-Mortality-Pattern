@@ -1,11 +1,8 @@
 # Anonymous ML4H reproduction repository
 
-This repository contains a compact, code-first review package for auditing the reported cohorts, recomputing the main topology-level statistics, inspecting uncertainty and validity outputs, and regenerating figures. 
-
+This repository contains a compact, code-first review package for auditing the reported cohorts, recomputing the main topology-level statistics, inspecting uncertainty and validity outputs, and regenerating figures.
 
 ## What can be reproduced directly
-
-
 
 Run:
 
@@ -16,7 +13,6 @@ pip install -r requirements.txt
 python code/reproduce_main_results.py
 python code/make_figures.py
 ```
-
 
 ## Repository layout
 
@@ -43,7 +39,7 @@ The exact frozen feature extraction and Cox/topology model definitions are provi
 
 The primary inferential replication is the positive-follow-up cohort (14,447 patients, 536 deaths). The originally saved 14,457-patient/546-death analysis is retained only as a time-zero audit. Discovery remains frozen at 28,934 patients and 1,037 deaths.
 
-`code/make_figures.py` creates a local `figures/` directory on demand. 
+`code/make_figures.py` creates a local `figures/` directory on demand.
 
 ## Included validity record
 
