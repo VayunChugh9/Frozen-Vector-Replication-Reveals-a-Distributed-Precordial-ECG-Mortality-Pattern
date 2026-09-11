@@ -1,0 +1,11 @@
+parameter,value,unit,source
+sampling_rate,400,Hz,code/02_extract_features.py
+recording_samples,4096,samples,code/02_extract_features.py
+lead_count,12,leads,code/02_extract_features.py
+feature_family_count,2,families,FROZEN_DISCOVERY_AND_REPLICATION_PLAN.md
+feature_count,24,features,FROZEN_DISCOVERY_AND_REPLICATION_PLAN.md
+sample_interval,2.5,ms,400-Hz sampling rate
+bonferroni_alpha,0.0020833333333333333,probability,0.05/24
+cox_penalizer,0.01,unitless,code/06_interim_cox_analysis.py
+permutations_per_control,100,repetitions,code/12_permutation_controls_final.py
+tail_trim_each_side,0.5,percent,code/11_finalize_analysis.py

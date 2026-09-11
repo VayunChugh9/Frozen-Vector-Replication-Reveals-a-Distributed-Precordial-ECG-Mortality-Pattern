@@ -1,0 +1,20 @@
+{
+  "discovery": {
+    "n": 28934,
+    "deaths": 1037
+  },
+  "corrected_replication_primary": {
+    "n": 14447,
+    "deaths": 536
+  },
+  "original_replication_audit": {
+    "n": 14457,
+    "deaths": 546
+  },
+  "permutations": 1000,
+  "bootstraps": 1000,
+  "seeds": {
+    "base": 20260910
+  },
+  "new_data_acquired": false
+}

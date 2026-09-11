@@ -1,0 +1,3 @@
+cohort,max_abs_hr_difference,exact_n_match,exact_death_match
+CODE_discovery,2.220446049250313e-16,True,True
+CODE_replication,2.220446049250313e-16,True,True

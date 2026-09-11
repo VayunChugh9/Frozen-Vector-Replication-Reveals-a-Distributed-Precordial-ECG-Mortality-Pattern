@@ -1,0 +1,11 @@
+severity,concern,resolution_or_reporting_boundary
+material,"The original replication contained 10 deaths at zero follow-up and yielded stronger topology metrics.","Corrected positive-follow-up cohort is primary; original 14,457/546 result is audit-only."
+material,"aVL first difference is strongly coupled to a local Q--S-span proxy that is not clinical global QRS duration.","Span-adjusted estimates and morphology correlations are reported; no independent aVL or fully duration-independent claim."
+material,"Discovery was availability-restricted rather than a random CODE sample.","Exact restriction (12,964 unavailable index waveforms; 22 missing outcomes) is disclosed; no new shards were admitted."
+moderate,"Full adjustment weakens Pearson/rank agreement relative to unadjusted analyses.","All three adjustment specifications and bootstrap intervals are reported; inference uses full adjustment."
+moderate,"Normal-ECG subgroups have few events and no Bonferroni-significant features.","Reported as null and underpowered; no normal-population claim."
+moderate,"Some adjustment covariates violate proportional hazards even though no feature term crosses the 24-test threshold.","Feature-specific tests are the stated result; model-wide PH perfection is not claimed."
+moderate,"SaMi-Trop outcomes were previously inspected and three effects oppose discovery.","SaMi-Trop is supportive disease-specific generalization only; opposing effects are enumerated."
+moderate,"The feature named rs_diff_2 is the frozen absolute change in absolute first differences, not a signed conventional second derivative.","The manuscript gives the exact operational definition; the feature was not renamed or redefined after discovery."
+moderate,"The frozen score sums correlated marginal coefficients and has a small corrected-replication C-index increment.","Presented as representation-transfer evidence, not an optimized, calibrated, or clinically useful prediction model."
+moderate,"Morphology waveform review is stratified and finite rather than a blinded clinical annotation study.","Used as extraction QC together with cohort-scale duration correlations and sensitivity models; no mechanistic interpretation."

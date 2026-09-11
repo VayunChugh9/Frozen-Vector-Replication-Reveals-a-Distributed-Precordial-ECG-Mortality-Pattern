@@ -1,0 +1,10 @@
+{
+  "source": "data/sami/exams.hdf5",
+  "selection": "SaMi-Trop extraction-QC pass; lower and upper quintiles of frozen CODE discovery score",
+  "outcome_used_for_selection": false,
+  "alignment": "aVL absolute-peak aligned median beats; 400 Hz; -500 to +497.5 ms",
+  "scaling": "per-record, per-lead min-max normalization matching feature-shape scale",
+  "n_lower": 323,
+  "n_upper": 324,
+  "machine_readable_summary": "results/sami_frozen_score_waveform_summary.csv"
+}

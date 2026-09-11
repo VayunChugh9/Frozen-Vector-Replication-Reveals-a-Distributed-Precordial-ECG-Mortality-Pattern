@@ -1,0 +1,9 @@
+numpy==2.5.3
+pandas==2.3.3
+scipy==1.18.1
+matplotlib==3.11.1
+pyarrow==25.0.1
+h5py==3.16.0
+lifelines==0.30.3
+biosppy>=2.2,<3
+

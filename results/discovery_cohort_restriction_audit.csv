@@ -1,0 +1,2 @@
+final_discovery_patients,final_discovery_deaths,unavailable_proper_index_waveform_patients,genuinely_outcome_missing_patients,membership_rule
+28934,1037,12964,22,valid mortality-index waveform and nonmissing death/timey available in initial processed shards
